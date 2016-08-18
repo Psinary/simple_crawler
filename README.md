@@ -1,6 +1,6 @@
 # simple_crawler
 yande  images crawler/spider  
-一个yande.re 图站的爬虫，支持tag和自定义页数下载  
+一个yande.re 图站的爬虫，支持tag和自定义页数图片下载  
 
 ## 原理
 用python写的简单的yande图站的爬虫，主要使用urllib模块下载读取网页，正则表达式提取图片下载地址并写入convert_url_list\list.txt，支持其他第三方工具（迅雷，IDM等）读取下载。
